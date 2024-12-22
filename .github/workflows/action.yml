@@ -1,0 +1,27 @@
+name: Skins.json updater
+
+on:
+  schedule:
+    - cron: '0 0 */3 * *'
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    - name: Install NodeJS 20
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+    - name: Commit files
+      run: |
+        git config --local user.email "skins@example.com"
+        git config --local user.name "https://umod.org/plugins/skins"
+        git commit -a -m "Updated ➡ skins.json"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
