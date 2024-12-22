@@ -16,6 +16,8 @@ jobs:
       uses: actions/setup-node@v4
       with:
         node-version: '20'
+    - name: Run updater script
+      run: node index.js
     - name: Commit files
       run: |
         git config --local user.email "skins@example.com"
