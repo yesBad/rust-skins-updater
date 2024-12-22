@@ -1,7 +1,6 @@
 name: Skins.json updater
 
 on:
-  push:
   schedule:
     - cron: '0 0 */7 * *'
   

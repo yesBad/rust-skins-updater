@@ -45,6 +45,9 @@ function transformToSkinFormat(items) {
         if (item.workshopFileId == null) {
             return acc;
         }
+        if (item.itemShortName == "miscellanous") {
+            return acc;
+        }
         let skinEntry = acc.find(entry => entry["Item Shortname"] === item.itemShortName);
         if (!skinEntry) {
             skinEntry = {
