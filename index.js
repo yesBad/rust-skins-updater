@@ -45,10 +45,12 @@ function transformToSkinFormat(items) {
         if (item.workshopFileId == null) {
             return acc;
         }
-        //if (item.itemShortName == "miscellanous") {
-        //    return acc;
-        //}
+        if (item.itemShortName == "miscellanous") {
+            return acc;
+        }
         // I dont know why I did above, we shall see soon lol
+        // Update: it was cause stupid api i fix some ay sdf dfgdfgngdf
+        
         let skinEntry = acc.find(entry => entry["Item Shortname"] === item.itemShortName);
         if (!skinEntry) {
             skinEntry = {
