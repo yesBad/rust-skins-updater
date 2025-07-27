@@ -46,11 +46,22 @@ function transformToSkinFormat(items) {
             return acc;
         }
         if (item.itemShortName == "miscellanous") {
-            return acc;
+            switch (item.itemType) {
+                case "Large Backpack":
+                    item.itemShortName = "large.backpack"
+                    break;
+
+                case "Spinning wheel":
+                    item.itemShortName = "spinner.wheel"
+                    break;
+                    
+                default:
+                    return acc;
+            }
         }
         // I dont know why I did above, we shall see soon lol
         // Update: it was cause stupid api i fix some ay sdf dfgdfgngdf
-        
+
         let skinEntry = acc.find(entry => entry["Item Shortname"] === item.itemShortName);
         if (!skinEntry) {
             skinEntry = {
