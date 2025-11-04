@@ -48,7 +48,7 @@ function transformToSkinFormat(items) {
         if (item.itemShortName == "miscellanous") {
             switch (item.itemType) {
                 case "Large Backpack":
-                    item.itemShortName = "large.backpack"
+                    item.itemShortName = "largebackpack"
                     break;
 
                 case "Spinning wheel":
