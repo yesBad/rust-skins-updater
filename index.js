@@ -95,6 +95,15 @@ async function main() {
     try {
         const allItems = await fetchPaginatedData();
         const formattedData = transformToSkinFormat(allItems);
+
+        formattedData.Skins.sort((a, b) =>
+          (a["Item Shortname"] ?? "").localeCompare(
+            (b["Item Shortname"] ?? ""),
+            undefined,
+            { sensitivity: "base" }
+          )
+        );
+        
         fs.writeFileSync('items.json', JSON.stringify(formattedData, null, 2));
         console.log('All items have been written to items.json');
     } catch (error) {
