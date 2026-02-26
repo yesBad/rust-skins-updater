@@ -20,24 +20,37 @@ async function fetchData(start) {
 }
 
 async function fetchPaginatedData() {
-    console.log('Starting initial request to determine total items...');
-    const firstResponse = await fetchData(0);
-    const totalItems = firstResponse.total;
-    const totalRequests = Math.ceil(totalItems / itemsPerPage);
-    console.log(`Total items: ${totalItems}. Total requests required: ${totalRequests}.`);
-    const requests = [];
-    for (let i = 1; i < totalRequests; i++) {
-        const start = i * itemsPerPage;
-        requests.push(() => fetchData(start));
-    }
-    const responses = await throttleRequests(requests, 3);
-    const allItems = [
-        ...firstResponse.items,
-        ...responses.flatMap(response => response.items)
-    ];
+  console.log('Starting initial request to determine total items...');
+  const firstResponse = await fetchData(0);
 
-    console.log(`Fetched a total of ${allItems.length} items.`);
-    return allItems;
+  const totalItems = firstResponse.total;
+  const totalRequests = Math.ceil(totalItems / itemsPerPage);
+  console.log(`Total items: ${totalItems}. Total requests required: ${totalRequests}.`);
+
+  const requests = [];
+  for (let i = 1; i < totalRequests; i++) {
+    const start = i * itemsPerPage;
+    requests.push(() => fetchData(start));
+  }
+
+  const responses = await throttleRequests(requests, 3);
+
+  const badPages = [];
+  const pageItems = responses.flatMap((response, i) => {
+    if (!response || !Array.isArray(response.items)) {
+      badPages.push({ pageIndex: i + 1, keys: response ? Object.keys(response) : null });
+      return [];
+    }
+    return response.items;
+  });
+
+  if (badPages.length) {
+    console.warn(`[fetchPaginatedData] Some pages had no items array: ${JSON.stringify(badPages, null, 2)}`);
+  }
+
+  const allItems = [...(firstResponse.items ?? []), ...pageItems];
+  console.log(`Fetched a total of ${allItems.length} items.`);
+  return allItems;
 }
 
 function transformToSkinFormat(items) {
