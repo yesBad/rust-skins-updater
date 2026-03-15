@@ -144,9 +144,17 @@
       ]
     },
     {
+      "Item Shortname": "bbq",
+      "Permission": "",
+      "Skins": [
+        3677314926
+      ]
+    },
+    {
       "Item Shortname": "bed",
       "Permission": "",
       "Skins": [
+        3597762031,
         3656963839,
         3654714035,
         3649024139,
@@ -196,6 +204,7 @@
       "Item Shortname": "bow.hunting",
       "Permission": "",
       "Skins": [
+        3677185688,
         3662761249,
         3651791405,
         3653756383,
@@ -1205,6 +1214,7 @@
       "Item Shortname": "door.double.hinged.toptier",
       "Permission": "",
       "Skins": [
+        3680961081,
         3336497292,
         2939834524,
         3586805981,
@@ -1802,6 +1812,7 @@
       "Item Shortname": "furnace",
       "Permission": "",
       "Skins": [
+        3676334941,
         3663534699,
         3616101556,
         3647445127,
@@ -2225,6 +2236,7 @@
       "Item Shortname": "hmlmg",
       "Permission": "",
       "Skins": [
+        3603524063,
         3661079136,
         3594986042,
         3629371720,
@@ -2615,6 +2627,7 @@
       "Item Shortname": "largebackpack",
       "Permission": "",
       "Skins": [
+        3564654696,
         3562286801,
         3433640630,
         3390287843,
@@ -3608,6 +3621,7 @@
       "Item Shortname": "pistol.python",
       "Permission": "",
       "Skins": [
+        3677081221,
         3649277952,
         3551689565,
         3547265366,
@@ -3855,6 +3869,7 @@
       "Item Shortname": "rifle.ak",
       "Permission": "",
       "Skins": [
+        3676792488,
         3671375598,
         3663283535,
         3652867299,
@@ -4473,6 +4488,7 @@
       "Item Shortname": "rifle.sks",
       "Permission": "",
       "Skins": [
+        3672327873,
         3672198832,
         3660969177,
         3664874734,
@@ -5196,6 +5212,7 @@
       "Item Shortname": "shotgun.double",
       "Permission": "",
       "Skins": [
+        3677688819,
         3649668996,
         3616094407,
         3382951162,
@@ -5740,6 +5757,7 @@
       "Item Shortname": "spinner.wheel",
       "Permission": "",
       "Skins": [
+        3672411893,
         3663341815,
         3654282856,
         3611563603,
