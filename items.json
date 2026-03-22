@@ -147,6 +147,8 @@
       "Item Shortname": "bbq",
       "Permission": "",
       "Skins": [
+        3677143072,
+        3676543502,
         3677314926
       ]
     },
@@ -1025,6 +1027,7 @@
       "Item Shortname": "crossbow",
       "Permission": "",
       "Skins": [
+        3681884574,
         3356297400,
         3535690163,
         3107132502,
@@ -1214,6 +1217,8 @@
       "Item Shortname": "door.double.hinged.toptier",
       "Permission": "",
       "Skins": [
+        3686448971,
+        3677388814,
         3680961081,
         3336497292,
         2939834524,
@@ -2256,6 +2261,7 @@
       "Item Shortname": "hoodie",
       "Permission": "",
       "Skins": [
+        3677418007,
         3616396073,
         3581840707,
         3564446879,
@@ -2712,6 +2718,8 @@
       "Item Shortname": "locker",
       "Permission": "",
       "Skins": [
+        3681778245,
+        3681778245,
         3663297675,
         3639880651,
         3603012093,
@@ -2958,6 +2966,7 @@
       "Item Shortname": "metal.facemask",
       "Permission": "",
       "Skins": [
+        3681830162,
         3663304498,
         3650267614,
         3620276639,
@@ -3159,6 +3168,7 @@
       "Item Shortname": "metal.plate.torso",
       "Permission": "",
       "Skins": [
+        3681827909,
         3663302458,
         3650266452,
         3619694541,
@@ -3323,6 +3333,7 @@
       "Item Shortname": "pants",
       "Permission": "",
       "Skins": [
+        3677422748,
         3616396704,
         3581843177,
         3564448138,
@@ -5372,6 +5383,7 @@
       "Item Shortname": "sleepingbag",
       "Permission": "",
       "Skins": [
+        3681900091,
         3612060329,
         2461090219,
         3587775885,
@@ -5500,6 +5512,7 @@
       "Item Shortname": "smg.2",
       "Permission": "",
       "Skins": [
+        3682154360,
         3607566190,
         3574691361,
         3492489288,
@@ -5879,6 +5892,7 @@
       "Item Shortname": "tactical.gloves",
       "Permission": "",
       "Skins": [
+        3607741918,
         3654396157,
         3615202547,
         3639045982,
