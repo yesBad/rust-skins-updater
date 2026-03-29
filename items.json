@@ -147,6 +147,7 @@
       "Item Shortname": "bbq",
       "Permission": "",
       "Skins": [
+        3682265633,
         3677143072,
         3676543502,
         3677314926
@@ -1217,6 +1218,7 @@
       "Item Shortname": "door.double.hinged.toptier",
       "Permission": "",
       "Skins": [
+        3677724543,
         3686448971,
         3677388814,
         3680961081,
@@ -1764,6 +1766,7 @@
       "Item Shortname": "fridge",
       "Permission": "",
       "Skins": [
+        3686006100,
         3663377129,
         3603142768,
         3545523816,
@@ -2241,6 +2244,7 @@
       "Item Shortname": "hmlmg",
       "Permission": "",
       "Skins": [
+        3682123003,
         3603524063,
         3661079136,
         3594986042,
@@ -2966,6 +2970,7 @@
       "Item Shortname": "metal.facemask",
       "Permission": "",
       "Skins": [
+        3686303538,
         3681830162,
         3663304498,
         3650267614,
@@ -3168,6 +3173,7 @@
       "Item Shortname": "metal.plate.torso",
       "Permission": "",
       "Skins": [
+        3686301009,
         3681827909,
         3663302458,
         3650266452,
@@ -3855,8 +3861,8 @@
         910681058,
         919535259,
         904356033,
-        899942580,
         902487409,
+        899942580,
         893118140,
         883156158,
         876007573,
@@ -4499,6 +4505,7 @@
       "Item Shortname": "rifle.sks",
       "Permission": "",
       "Skins": [
+        3672099550,
         3672327873,
         3672198832,
         3660969177,
@@ -5223,6 +5230,7 @@
       "Item Shortname": "shotgun.double",
       "Permission": "",
       "Skins": [
+        3686356437,
         3677688819,
         3649668996,
         3616094407,
@@ -5581,6 +5589,7 @@
       "Item Shortname": "smg.mp5",
       "Permission": "",
       "Skins": [
+        3686126729,
         3655857888,
         3654876481,
         3649901189,
@@ -5892,6 +5901,7 @@
       "Item Shortname": "tactical.gloves",
       "Permission": "",
       "Skins": [
+        3611526544,
         3607741918,
         3654396157,
         3615202547,
@@ -5987,6 +5997,7 @@
       "Item Shortname": "wall.frame.garagedoor",
       "Permission": "",
       "Skins": [
+        3686407330,
         3672386099,
         3659826439,
         3662257779,
