@@ -126,6 +126,8 @@
       "Item Shortname": "axe.salvaged",
       "Permission": "",
       "Skins": [
+        3698497871,
+        3714625293,
         3715623965,
         3714042820,
         3718015662,
@@ -452,6 +454,7 @@
       "Item Shortname": "box.wooden.large",
       "Permission": "",
       "Skins": [
+        3717398371,
         3705237112,
         3719923351,
         3705966097,
@@ -943,6 +946,7 @@
       "Item Shortname": "coffeecan.helmet",
       "Permission": "",
       "Skins": [
+        3732598445,
         3706342753,
         3689444271,
         3672554246,
@@ -1069,6 +1073,7 @@
       "Item Shortname": "crossbow",
       "Permission": "",
       "Skins": [
+        3715557333,
         3711173247,
         3681884574,
         3356297400,
@@ -1175,6 +1180,7 @@
       "Item Shortname": "door.double.hinged.metal",
       "Permission": "",
       "Skins": [
+        3707575446,
         3701514660,
         3655323443,
         3289747219,
@@ -1314,6 +1320,7 @@
       "Item Shortname": "door.hinged.metal",
       "Permission": "",
       "Skins": [
+        3717728077,
         3715180186,
         3709889479,
         3706389987,
@@ -1782,6 +1789,7 @@
       "Item Shortname": "electric.furnace",
       "Permission": "",
       "Skins": [
+        3715704764,
         3728536082,
         3718287227,
         3706593737
@@ -2324,6 +2332,7 @@
         3605268000,
         3615030408,
         3594941040,
+        3599330557,
         3594730871
       ]
     },
@@ -2331,6 +2340,7 @@
       "Item Shortname": "hoodie",
       "Permission": "",
       "Skins": [
+        3732528733,
         3709921505,
         3677418007,
         3616396073,
@@ -2709,6 +2719,7 @@
       "Item Shortname": "largebackpack",
       "Permission": "",
       "Skins": [
+        3715618303,
         3404467063,
         3720233185,
         3564654696,
@@ -2760,6 +2771,7 @@
       "Item Shortname": "lmg.m249",
       "Permission": "",
       "Skins": [
+        3729179921,
         3662591774,
         3617736885,
         3603162717,
@@ -2796,6 +2808,7 @@
       "Item Shortname": "locker",
       "Permission": "",
       "Skins": [
+        3721591593,
         3701704542,
         3681778245,
         3663297675,
@@ -3416,6 +3429,7 @@
       "Item Shortname": "pants",
       "Permission": "",
       "Skins": [
+        3732531494,
         3709919537,
         3677422748,
         3616396704,
@@ -3610,6 +3624,7 @@
       "Item Shortname": "pickaxe",
       "Permission": "",
       "Skins": [
+        3717349556,
         3616339305,
         3432796186,
         3620480195,
@@ -3690,6 +3705,7 @@
       "Item Shortname": "pistol.eoka",
       "Permission": "",
       "Skins": [
+        3732066449,
         3706056728,
         3380231327,
         3328408365,
@@ -3869,6 +3885,7 @@
       "Item Shortname": "pistol.semiauto",
       "Permission": "",
       "Skins": [
+        3732784636,
         3663533499,
         3649790323,
         3639141268,
@@ -3965,6 +3982,7 @@
       "Item Shortname": "rifle.ak",
       "Permission": "",
       "Skins": [
+        3724506497,
         3714820002,
         3686554840,
         3701706328,
@@ -4300,6 +4318,7 @@
       "Item Shortname": "rifle.bolt",
       "Permission": "",
       "Skins": [
+        3732571786,
         3607962976,
         3605684462,
         3607887938,
@@ -4590,6 +4609,8 @@
       "Item Shortname": "rifle.sks",
       "Permission": "",
       "Skins": [
+        3702192440,
+        3719899364,
         3685900314,
         3719806914,
         3706535934,
@@ -4634,7 +4655,6 @@
         2666111383,
         3706512087,
         3555421977,
-        3599185805,
         3599185805,
         3580159796,
         3569867574,
@@ -4698,6 +4718,7 @@
       "Item Shortname": "roadsign.jacket",
       "Permission": "",
       "Skins": [
+        3732597775,
         3706343718,
         3689439540,
         3672557338,
@@ -4831,6 +4852,7 @@
       "Item Shortname": "roadsign.kilt",
       "Permission": "",
       "Skins": [
+        3732597022,
         3706344953,
         3689436653,
         3672608559,
@@ -5701,6 +5723,7 @@
       "Item Shortname": "smg.mp5",
       "Permission": "",
       "Skins": [
+        3733096449,
         3713795294,
         3700163612,
         3686126729,
@@ -6016,6 +6039,8 @@
       "Item Shortname": "tactical.gloves",
       "Permission": "",
       "Skins": [
+        3709631672,
+        3686180627,
         3645240904,
         3719948437,
         3719811655,
@@ -6115,6 +6140,8 @@
       "Item Shortname": "wall.frame.garagedoor",
       "Permission": "",
       "Skins": [
+        3732574941,
+        3717405070,
         3728593357,
         3709012115,
         3706950777,
