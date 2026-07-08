@@ -127,6 +127,7 @@
       "Permission": "",
       "Skins": [
         3752251411,
+        3744943769,
         3740184900,
         3732445397,
         3732445397,
@@ -138,6 +139,7 @@
       "Item Shortname": "axe.salvaged",
       "Permission": "",
       "Skins": [
+        3743606692,
         3740737082,
         3686377889,
         3698497871,
@@ -181,6 +183,7 @@
       "Item Shortname": "bbq",
       "Permission": "",
       "Skins": [
+        3671325996,
         3719761762,
         3719807986,
         3715680134,
@@ -1633,6 +1636,8 @@
       "Item Shortname": "door.hinged.toptier",
       "Permission": "",
       "Skins": [
+        3753335115,
+        3754213272,
         2981954009,
         3251031603,
         3629835214,
@@ -1811,6 +1816,7 @@
       "Permission": "",
       "Skins": [
         3752247893,
+        3745846939,
         3739537489,
         3739537489,
         3741389007,
@@ -1917,6 +1923,7 @@
       "Item Shortname": "furnace",
       "Permission": "",
       "Skins": [
+        3747038919,
         3352744170,
         3701497579,
         3689873965,
@@ -2171,6 +2178,7 @@
       "Item Shortname": "hat.boonie",
       "Permission": "",
       "Skins": [
+        2966921828,
         3495920101,
         3316077200,
         3274607135,
@@ -2909,6 +2917,7 @@
       "Item Shortname": "lr300.item",
       "Permission": "",
       "Skins": [
+        3745230779,
         3323385165,
         2193641084,
         3581987778,
@@ -3092,6 +3101,7 @@
       "Item Shortname": "metal.facemask",
       "Permission": "",
       "Skins": [
+        3749959064,
         3720025855,
         3715694433,
         3686303538,
@@ -3297,6 +3307,7 @@
       "Item Shortname": "metal.plate.torso",
       "Permission": "",
       "Skins": [
+        3749960230,
         3720024139,
         3715696589,
         3686301009,
@@ -3921,6 +3932,7 @@
       "Item Shortname": "pistol.semiauto",
       "Permission": "",
       "Skins": [
+        3672471026,
         3732784636,
         3663533499,
         3649790323,
@@ -4018,6 +4030,7 @@
       "Item Shortname": "rifle.ak",
       "Permission": "",
       "Skins": [
+        3748964677,
         3724506497,
         3714820002,
         3686554840,
@@ -4437,13 +4450,6 @@
       ]
     },
     {
-      "Item Shortname": "rifle.lr300",
-      "Permission": "",
-      "Skins": [
-        3745230779
-      ]
-    },
-    {
       "Item Shortname": "rifle.m39",
       "Permission": "",
       "Skins": [
@@ -4700,6 +4706,7 @@
       "Item Shortname": "roadsign.gloves",
       "Permission": "",
       "Skins": [
+        3745827956,
         3741135930,
         3701709762,
         2666111383,
