@@ -351,6 +351,7 @@
       "Item Shortname": "box.wooden",
       "Permission": "",
       "Skins": [
+        3754458387,
         3654768890,
         3715702748,
         3269404688,
@@ -1344,6 +1345,7 @@
       "Item Shortname": "door.hinged.metal",
       "Permission": "",
       "Skins": [
+        3754590605,
         3717728077,
         3715180186,
         3709889479,
@@ -1636,6 +1638,8 @@
       "Item Shortname": "door.hinged.toptier",
       "Permission": "",
       "Skins": [
+        3749993356,
+        3753065791,
         3753335115,
         3754213272,
         2981954009,
@@ -3871,6 +3875,7 @@
       "Item Shortname": "pistol.revolver",
       "Permission": "",
       "Skins": [
+        3733888087,
         3615885002,
         3602563897,
         3494932683,
@@ -4030,6 +4035,7 @@
       "Item Shortname": "rifle.ak",
       "Permission": "",
       "Skins": [
+        3754785465,
         3748964677,
         3724506497,
         3714820002,
