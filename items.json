@@ -351,6 +351,7 @@
       "Item Shortname": "box.wooden",
       "Permission": "",
       "Skins": [
+        3740365133,
         3754458387,
         3654768890,
         3715702748,
@@ -844,6 +845,7 @@
       "Item Shortname": "burlap.headwrap",
       "Permission": "",
       "Skins": [
+        3754516408,
         3691163844,
         3690426055,
         3613879132,
@@ -1345,6 +1347,7 @@
       "Item Shortname": "door.hinged.metal",
       "Permission": "",
       "Skins": [
+        3758396637,
         3754590605,
         3717728077,
         3715180186,
@@ -1638,6 +1641,8 @@
       "Item Shortname": "door.hinged.toptier",
       "Permission": "",
       "Skins": [
+        3759339495,
+        3758846716,
         3749993356,
         3753065791,
         3753335115,
@@ -4456,6 +4461,13 @@
       ]
     },
     {
+      "Item Shortname": "rifle.lr300",
+      "Permission": "",
+      "Skins": [
+        3758887029
+      ]
+    },
+    {
       "Item Shortname": "rifle.m39",
       "Permission": "",
       "Skins": [
@@ -5794,6 +5806,7 @@
       "Item Shortname": "smg.mp5",
       "Permission": "",
       "Skins": [
+        3759600315,
         3733096449,
         3713795294,
         3700163612,
