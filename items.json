@@ -126,6 +126,7 @@
       "Item Shortname": "autoturret",
       "Permission": "",
       "Skins": [
+        3739837547,
         3752251411,
         3744943769,
         3740184900,
@@ -1347,6 +1348,7 @@
       "Item Shortname": "door.hinged.metal",
       "Permission": "",
       "Skins": [
+        3742802385,
         3758396637,
         3754590605,
         3717728077,
@@ -1641,6 +1643,7 @@
       "Item Shortname": "door.hinged.toptier",
       "Permission": "",
       "Skins": [
+        3763235773,
         3759339495,
         3758846716,
         3749993356,
@@ -2124,6 +2127,7 @@
       "Item Shortname": "hammer",
       "Permission": "",
       "Skins": [
+        3764259605,
         3634166443,
         3569128522,
         3511713883,
@@ -2857,6 +2861,7 @@
       "Item Shortname": "locker",
       "Permission": "",
       "Skins": [
+        3740878549,
         3312295412,
         3740880855,
         3721591593,
@@ -3942,6 +3947,7 @@
       "Item Shortname": "pistol.semiauto",
       "Permission": "",
       "Skins": [
+        3764205553,
         3672471026,
         3732784636,
         3663533499,
@@ -4040,6 +4046,7 @@
       "Item Shortname": "rifle.ak",
       "Permission": "",
       "Skins": [
+        3764289135,
         3754785465,
         3748964677,
         3724506497,
@@ -5267,6 +5274,7 @@
       "Item Shortname": "salvaged.sword",
       "Permission": "",
       "Skins": [
+        3763754975,
         1961025646,
         3650118306,
         3577021353,
@@ -5334,6 +5342,7 @@
       "Item Shortname": "shoes.boots",
       "Permission": "",
       "Skins": [
+        3560391580,
         3745828142,
         3741134868,
         3701710027,
@@ -5603,6 +5612,7 @@
       "Item Shortname": "sleepingbag",
       "Permission": "",
       "Skins": [
+        3762018670,
         3519831492,
         3526260457,
         3707146157,
@@ -6195,6 +6205,7 @@
       "Item Shortname": "vending.machine",
       "Permission": "",
       "Skins": [
+        3754225736,
         3536960181,
         3362411083,
         3376669266,
@@ -6224,6 +6235,7 @@
       "Item Shortname": "wall.frame.garagedoor",
       "Permission": "",
       "Skins": [
+        3764420550,
         3745827452,
         3740698166,
         3732574941,
