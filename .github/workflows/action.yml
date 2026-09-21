@@ -22,6 +22,7 @@ jobs:
       run: |
         git config --local user.email "skins@example.com"
         git config --local user.name "https://umod.org/plugins/skins"
+        git diff --quiet && echo "items.json unchanged" && exit 0
         git commit -a -m "Updated ➡ skins.json"
     - name: Push changes
       uses: ad-m/github-push-action@master
